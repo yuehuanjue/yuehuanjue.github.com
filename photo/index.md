@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "Sample Media Gallery"
-date: 2014-05-30T11:40:45-04:00
+title: "Jekyll"
+date: 2016-10-19T11:39:03-04:00
 modified:
-excerpt: "An archive of media posts, perfect for portfolios and galleries."
+excerpt: "A collection of thoughts, inspiration, mistakes, and other minutia."
 tags: []
 image:
   feature:
@@ -11,7 +11,11 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.categories.media %}
-  {% include post-grid.html %}
-{% endfor %}
+{% if site.categories.jekyll %}
+  {% for post in site.categories.jekyll %}
+    {% include post-grid.html %}
+  {% endfor %}
+{% else %}
+    暂无图片
+{% endif %}
 </div><!-- /.tiles -->
