@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Python
+  url: /python/
+  excerpt: "以Python为工具，记录一些关于数据结构，算法及django框架等等的学习笔记。"
+  image: 400x250.gif
+
+- title: Jekyll
+  url: /jekyll/
+  excerpt: "学习和使用jekyll，并在github page上部署，以及一些前端jq等等的学习笔记。"
+  image: lock-400x250.jpg
+
+- title: Photo
+  url: /photo/
+  excerpt: "记录一些生活中的照片，或者一些其他的美图。"
+  image: 400x250.gif
+
+- title: About
+  url: /about/
+  excerpt: "All about Skinny Bones for Jekyll."
+  image: 400x250.gif
