@@ -1,5 +1,4 @@
 _site
-_config.yml
 .DS_Store
 *.sublime-project
 *.sublime-workspace
@@ -8,3 +7,4 @@ node_modules
 _asset_bundler_cache
 .sass-cache
 .jekyll-metadata
+.idea
