@@ -3,7 +3,7 @@ layout: article
 title: 麻省理工学院公开课：计算机科学及编程导论（第一讲）
 description:  主要讲解的是课程目标，数据类型，运算，变量
 updateData:  15:53 2016/10/20
-categories: [python]
+categories: []
 share: false
 image:
   feature: 

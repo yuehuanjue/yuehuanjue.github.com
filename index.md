@@ -5,7 +5,7 @@ image:
   
   feature: 20161018120008-Image.jpg
 ---
-<!-- feature: wood-texture-1600x800.jpg -->
+<!-- feature: wood-texture-1600x800.jpg
 
 <div class="tiles">
   <h3 id="video">Video：麻省理工学院公开课：计算机科学及编程导论（第一讲）</h3>
@@ -23,7 +23,7 @@ image:
   <a href="/python/basic_open_class_one/" class="btn-inverse" style="width: 36%; margin-left: 32%;">麻省理工学院公开课：计算机科学及编程导论（第一讲）</a>
 </div>
 <br/>
-<br/>
+<br/>-->
 <br/>
 <div class="tiles">
 
