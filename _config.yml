@@ -22,19 +22,18 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jekyll-paginate
 
 # Site owner
 owner:
-  name: "Michael Rose"
+  name: "YueHuanJue"
   web: "https://yuehuanjue.github.io/"
-  twitter: "mmistakes"
-  bio: "Just another boring, tattooed, time traveling designer."
+  twitter: "yuehuanjue"
+  bio: "The moon will remind you of me."
   avatar: "bio-photo.jpg" # 160x160 px image for author byline
   google:
-    plus: "+MichaelRoseDesign"
-    ad-client: "ca-pub-7328585512091257"
-    ad-slot: 3049671934
+    plus: ""
+    ad-client: ""
+    ad-slot: ""
   disqus-shortname:
 
 
