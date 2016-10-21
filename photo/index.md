@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Jekyll"
+title: "Photo"
 date: 2016-10-19T11:39:03-04:00
 modified:
 excerpt: "A collection of thoughts, inspiration, mistakes, and other minutia."
@@ -11,8 +11,8 @@ image:
 ---
 
 <div class="tiles">
-{% if site.categories.jekyll %}
-  {% for post in site.categories.jekyll %}
+{% if site.categories.photo %}
+  {% for post in site.categories.photo %}
     {% include post-grid.html %}
   {% endfor %}
 {% else %}

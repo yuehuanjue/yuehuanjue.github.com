@@ -23,7 +23,7 @@
     @include font-size(16);
   }
   .post-teaser {
-    position: relative;
+    //position: relative;
     display: block;
     &:after {
       content: '';

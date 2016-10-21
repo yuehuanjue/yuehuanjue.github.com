@@ -15,6 +15,11 @@
   excerpt: "记录一些生活中的照片，或者一些其他的美图。"
   image: 400x250.gif
 
+- title: git
+  url: /git/
+  excerpt: "记录的是git工具，以及github的一些使用过程。"
+  image: 400x250.gif
+
 - title: About
   url: /about/
   excerpt: "All about Skinny Bones for Jekyll."

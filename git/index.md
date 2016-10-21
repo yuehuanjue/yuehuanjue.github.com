@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Python"
-date: 2016-10-19T11:39:03-04:00
+title: "git or github"
+date: 2016-10-21T17:00:03-17:04:00
 modified:
 excerpt: ""
 tags: []
@@ -11,8 +11,8 @@ image:
 ---
 
 <div class="tiles">
-{% if site.categories.python %}
-  {% for post in site.categories.python %}
+{% if site.categories.git %}
+  {% for post in site.categories.git %}
     {% include post-grid.html %}
   {% endfor %}
 {% else %}
